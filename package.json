@@ -73,7 +73,7 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "husky": "^7.0.4",
     "pathpida": "^0.18.1",
-    "postcss": "8.4.12",
+    "postcss": "8.4.31",
     "prettier": "2.6.2",
     "react-hook-form": "^7.29.0",
     "react-use": "^17.3.2",
